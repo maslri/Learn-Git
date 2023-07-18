@@ -3,3 +3,11 @@
 git branch -m {new name branch}
 git branch -d برای حفظ
 git branch -D برای حفظ بدون ترکیب
+
+
+
+
+
+git branch -m {new name branch}
+git branch -d برای حفظ
+git branch -D برای حفظ بدون ترکیب
